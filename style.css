@@ -108,3 +108,17 @@
   table, th, td {
     border:3px double black;
   }
+
+  .nav {
+    font-size: 20px;
+  }
+  .nav1 {font-size: 20px;}
+
+  .nav2 {font-size: 20px;}
+  
+  .caption {
+    font-size: 40px;
+    text-align: center;
+  }
+ 
+  
